@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Swarnadityasingh/Swarnadityasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science Engineering student with a strong interest in programming, problem-solving. I enjoy learning new technologies and will like to apply them through hands-on projects.
 
-Here are some ideas to get you started:
+🔭 Currently Working On
+▶️ Strengthening core concepts in Data Structures & Algorithms and Database Management Systems
+▶️ Improving problem-solving skills for academics and real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+▶️ Languages: Python, C
+▶️ Concepts: Data Structures, Algorithms, OOP
+▶️ Tools: GitHub & VS Code
+
+📫 How to Reach Me
+▶️ All Details : https://linktr.ee/SwarnadityaSingh
